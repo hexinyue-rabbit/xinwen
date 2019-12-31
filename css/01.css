@@ -1,0 +1,74 @@
+@charset "utf-8";
+/*head*/
+.head{
+    height: 5.925rem;
+    background: yellow;
+}
+/*nav*/
+.nav{
+    height: 2.25rem;
+    background: yellowgreen;
+}
+.nav img{
+    margin-left:0.375rem;
+    width: 2.25rem;
+    height: 2.25rem;
+}
+.nav span{
+    margin-left: .5rem;
+    line-height: 2.25rem;
+}
+.nav span a{
+    font-size: .4rem;
+    color: black;
+    margin-left: .35rem;
+}
+.nav1 ul{
+    height: 1.125rem;
+    border-bottom: 2px solid #EAEAEA;
+    margin-top: .375rem;
+}
+.nav1 li a{
+    font-size: .35rem;
+    color: black;
+    float: left;
+    margin-right: .85rem;
+    margin-left:0.375rem;
+}
+.nav1 li a:hover{
+    color: #1159E5;
+}
+/*content*/
+.content{
+    height: 43rem;
+    margin-left: .3rem;
+    margin-right: .3rem;
+}
+.content h2{
+    font-size: .5rem;
+    color: #333333;
+    text-align: center;
+    padding-top: .65rem;
+    margin-bottom: .65rem;
+}
+.content img{
+    margin-top: .5rem;
+}
+.content p{
+    font-size: .4rem;
+    color: #333333;
+    text-indent: 4em;
+    margin-top: .5rem;
+}
+/*footer*/
+.footer{
+    height: 4.95rem;
+    background: #4A4A4A;
+    padding-top: .25rem;
+}
+.footer p{
+    font-size: .3rem;
+    color: white;
+    margin-left:.3rem;
+    margin-top: .375rem;
+}
